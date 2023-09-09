@@ -14,4 +14,6 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * Added custom fonts
 * Added Material icons
 * Styling Text widgets
+
+
 https://github.com/dynamomanal/mi_card/assets/133088089/0780f74c-8a64-4a7f-bb32-aedf564e67c1)
